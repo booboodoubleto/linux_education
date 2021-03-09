@@ -1,0 +1,13 @@
+\:\:\:
+-----HEADER-----
+\:\:
+This area is body.
+ - Hello linux world.
+ - Practice nl command.
+\:
+-----FOOTER-----
+-page 1-
+\:\:\:
+\:\:
+\:
+-page 2
